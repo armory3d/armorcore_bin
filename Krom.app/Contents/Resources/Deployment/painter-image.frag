@@ -1,9 +1,6 @@
 #version 330
-#ifdef GL_ARB_shading_language_420pack
-#extension GL_ARB_shading_language_420pack : require
-#endif
 
-layout(binding = 0) uniform sampler2D tex;
+uniform sampler2D tex;
 
 in vec2 texCoord;
 in vec4 color;

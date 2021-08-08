@@ -6,19 +6,19 @@
 	<dict>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		h8ALiIUq5Bl+VDRzfE+++tVQ4vk=
+		G/K0kYgLpbCdalT24tTWDxHu3f4=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		cbXfnXSQC04XDfI5orH0X8Unf0o=
+		vjzmrFaB/Uxt4wU/oFg1nY5fiGw=
 		</data>
 		<key>Resources/Deployment/g1.frag</key>
 		<data>
-		COkW6Ca7+JwJjk2/DZc4YBP5s38=
+		SOlRv8BPRwME0lc9Ee/Z6HDs2VI=
 		</data>
 		<key>Resources/Deployment/g1.vert</key>
 		<data>
-		9hWJeglowkI8iHAVwigpdYXlOXk=
+		bF2ErIAARNzjV/fyGOJMMTyh++c=
 		</data>
 		<key>Resources/Deployment/keepme</key>
 		<data>
@@ -26,35 +26,35 @@
 		</data>
 		<key>Resources/Deployment/painter-colored.frag</key>
 		<data>
-		5ux9QKMiQe4vFHch7TLVhNo2ex8=
+		3FECbHD09JzIeqxHslGAuSs+aTU=
 		</data>
 		<key>Resources/Deployment/painter-colored.vert</key>
 		<data>
-		jKDr5AxsIlSbPS6qBzet3mO1BWk=
+		yhoC2iRKiqg/33KsZRv7yPrcZNM=
 		</data>
 		<key>Resources/Deployment/painter-image.frag</key>
 		<data>
-		+2d65j+ZY9iOApuYqFKUxC/XACI=
+		0cIcjKi97wIcJfPJFYZp3FASBCw=
 		</data>
 		<key>Resources/Deployment/painter-image.vert</key>
 		<data>
-		Z+tquELe0a147GTBUkNaySZ1nws=
+		lF/NVIh01fcUiNlvgwTUr8Vyado=
 		</data>
 		<key>Resources/Deployment/painter-text.frag</key>
 		<data>
-		ihXUAzMIHQMnCLd7NjdPTluw/ls=
+		W9zrC55uYfWrchBiBAr6lw6Rcx4=
 		</data>
 		<key>Resources/Deployment/painter-text.vert</key>
 		<data>
-		tvWO4u5yk3/CpznUHA0fD0RZb4M=
+		SwGI6aOVOwU7ABVkfWt5IZOWX+c=
 		</data>
 		<key>Resources/Deployment/painter-video.frag</key>
 		<data>
-		+2d65j+ZY9iOApuYqFKUxC/XACI=
+		0cIcjKi97wIcJfPJFYZp3FASBCw=
 		</data>
 		<key>Resources/Deployment/painter-video.vert</key>
 		<data>
-		Z+tquELe0a147GTBUkNaySZ1nws=
+		lF/NVIh01fcUiNlvgwTUr8Vyado=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -63,44 +63,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h8ALiIUq5Bl+VDRzfE+++tVQ4vk=
+			G/K0kYgLpbCdalT24tTWDxHu3f4=
 			</data>
 			<key>hash2</key>
 			<data>
-			QAyi0T5VtW/nQgfLBTI0W7cg8ZH7k/c0b8p5Olpc4E4=
+			1TzTIeX3QkXSsgbK94B4yLDYsZtxv16WFoLziCqTdIg=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cbXfnXSQC04XDfI5orH0X8Unf0o=
+			vjzmrFaB/Uxt4wU/oFg1nY5fiGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			oY5xRzPtG+IsC4SvY7vX4GiAx83KG2BEJVncbr9yyps=
+			hqnj20r7xI5HdI2V1ryliJbuSohf6hVkQYHoonpUUfI=
 			</data>
 		</dict>
 		<key>Resources/Deployment/g1.frag</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			COkW6Ca7+JwJjk2/DZc4YBP5s38=
+			SOlRv8BPRwME0lc9Ee/Z6HDs2VI=
 			</data>
 			<key>hash2</key>
 			<data>
-			qbHsbb3uFjhMY9uUMkDwgPhGorWWhefZwa3IGY4sslw=
+			uDppk599WqkgoTXvQzR9egwBHTa/ffKKDVcQHBlSLM8=
 			</data>
 		</dict>
 		<key>Resources/Deployment/g1.vert</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9hWJeglowkI8iHAVwigpdYXlOXk=
+			bF2ErIAARNzjV/fyGOJMMTyh++c=
 			</data>
 			<key>hash2</key>
 			<data>
-			h6a72bSOGW2X6yvJ59cKjt+cCLWtVQLphPSgbeqeBgQ=
+			jzILNrukaCCdRLYfWnz/3CY/yz9G7GdI6HEbWK5Uuow=
 			</data>
 		</dict>
 		<key>Resources/Deployment/keepme</key>
@@ -118,88 +118,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5ux9QKMiQe4vFHch7TLVhNo2ex8=
+			3FECbHD09JzIeqxHslGAuSs+aTU=
 			</data>
 			<key>hash2</key>
 			<data>
-			XEg4gIKqSpqxKn1++ejnS7F8qib1BLshSohlNArydoY=
+			JU0tcV+uh2ln2n59CMzkqB5qIDRTzyKVx8PyJpVYeLo=
 			</data>
 		</dict>
 		<key>Resources/Deployment/painter-colored.vert</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jKDr5AxsIlSbPS6qBzet3mO1BWk=
+			yhoC2iRKiqg/33KsZRv7yPrcZNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			04Hu49cPMMQPWpyASDrQnSdlsEm82Nftu/uqOlMXs8A=
+			Pw2Ts7L1WvUV2nCa9TDd5gVgXsCdqn7Ydd1KPP0MLoQ=
 			</data>
 		</dict>
 		<key>Resources/Deployment/painter-image.frag</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+2d65j+ZY9iOApuYqFKUxC/XACI=
+			0cIcjKi97wIcJfPJFYZp3FASBCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			NiLjNcBsex1KfR+3KEwO2i1q9gxjMD0tpxoTmbb6E/I=
+			GMGR7UB4syFLVsp6alzZYtqbUBIqsXMkE4AgUz0TOY8=
 			</data>
 		</dict>
 		<key>Resources/Deployment/painter-image.vert</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z+tquELe0a147GTBUkNaySZ1nws=
+			lF/NVIh01fcUiNlvgwTUr8Vyado=
 			</data>
 			<key>hash2</key>
 			<data>
-			RdiFwivYJz42PBMWicJGXrgVJrBl2mPbcWzrDSvVF7I=
+			+CMYixvTugP5lkCNM5hjHLq98PVwjeWfH8wKIkTqWEA=
 			</data>
 		</dict>
 		<key>Resources/Deployment/painter-text.frag</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ihXUAzMIHQMnCLd7NjdPTluw/ls=
+			W9zrC55uYfWrchBiBAr6lw6Rcx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			c8kUCWOLfORUXmc5pwvMgQYksyVUvAk5CxqZhek+5X8=
+			uQaXa6QZSJuwLEKk3iEGFA0iYN2MRlBfJIbFb86skAg=
 			</data>
 		</dict>
 		<key>Resources/Deployment/painter-text.vert</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tvWO4u5yk3/CpznUHA0fD0RZb4M=
+			SwGI6aOVOwU7ABVkfWt5IZOWX+c=
 			</data>
 			<key>hash2</key>
 			<data>
-			z+gBgdAbZ/w8fnHTXJTibPgCMp9267hQZlfG6QdX+fs=
+			cdtXWNzC+dif2wJOUwp8U03jHsN3TLFh/7wmlXIRAec=
 			</data>
 		</dict>
 		<key>Resources/Deployment/painter-video.frag</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+2d65j+ZY9iOApuYqFKUxC/XACI=
+			0cIcjKi97wIcJfPJFYZp3FASBCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			NiLjNcBsex1KfR+3KEwO2i1q9gxjMD0tpxoTmbb6E/I=
+			GMGR7UB4syFLVsp6alzZYtqbUBIqsXMkE4AgUz0TOY8=
 			</data>
 		</dict>
 		<key>Resources/Deployment/painter-video.vert</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z+tquELe0a147GTBUkNaySZ1nws=
+			lF/NVIh01fcUiNlvgwTUr8Vyado=
 			</data>
 			<key>hash2</key>
 			<data>
-			RdiFwivYJz42PBMWicJGXrgVJrBl2mPbcWzrDSvVF7I=
+			+CMYixvTugP5lkCNM5hjHLq98PVwjeWfH8wKIkTqWEA=
 			</data>
 		</dict>
 	</dict>

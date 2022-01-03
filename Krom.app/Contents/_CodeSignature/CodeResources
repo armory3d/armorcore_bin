@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		xDpZ1sXKyyn1HRg0iLoJXFQRvqE=
+		ZxMV9/sjsLFhYfiQBL9qxM86Kiw=
 		</data>
 		<key>Resources/Deployment/g1.frag</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Resources/Deployment/painter-image.vert</key>
 		<data>
-		lF/NVIh01fcUiNlvgwTUr8Vyado=
+		Rw0jtRNyLP/ohPXeQSIcjpnF5g4=
 		</data>
 		<key>Resources/Deployment/painter-text.frag</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Resources/Deployment/painter-text.vert</key>
 		<data>
-		SwGI6aOVOwU7ABVkfWt5IZOWX+c=
+		6+xkPjA+Z1vwC8A6sGQprDy28e4=
 		</data>
 		<key>Resources/Deployment/painter-video.frag</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Resources/Deployment/painter-video.vert</key>
 		<data>
-		lF/NVIh01fcUiNlvgwTUr8Vyado=
+		Rw0jtRNyLP/ohPXeQSIcjpnF5g4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -74,11 +74,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xDpZ1sXKyyn1HRg0iLoJXFQRvqE=
+			ZxMV9/sjsLFhYfiQBL9qxM86Kiw=
 			</data>
 			<key>hash2</key>
 			<data>
-			sTpWpzEvbarAWpWUXmArUQi+6XkXNxA9iXfchZQOZEg=
+			qkijuqK7hgAqw1WrNILw4DDwhRe2XU0aODubHMOD/z8=
 			</data>
 		</dict>
 		<key>Resources/Deployment/g1.frag</key>
@@ -151,11 +151,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lF/NVIh01fcUiNlvgwTUr8Vyado=
+			Rw0jtRNyLP/ohPXeQSIcjpnF5g4=
 			</data>
 			<key>hash2</key>
 			<data>
-			+CMYixvTugP5lkCNM5hjHLq98PVwjeWfH8wKIkTqWEA=
+			sLNJhfc7EIybTASXDYODrefe6cnEYZf9KK+pfz9yUTE=
 			</data>
 		</dict>
 		<key>Resources/Deployment/painter-text.frag</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SwGI6aOVOwU7ABVkfWt5IZOWX+c=
+			6+xkPjA+Z1vwC8A6sGQprDy28e4=
 			</data>
 			<key>hash2</key>
 			<data>
-			cdtXWNzC+dif2wJOUwp8U03jHsN3TLFh/7wmlXIRAec=
+			CAoV7vQ7ttjRo/wKfRxeL7p1tOR5qqnaD28JuMV1qvk=
 			</data>
 		</dict>
 		<key>Resources/Deployment/painter-video.frag</key>
@@ -195,11 +195,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lF/NVIh01fcUiNlvgwTUr8Vyado=
+			Rw0jtRNyLP/ohPXeQSIcjpnF5g4=
 			</data>
 			<key>hash2</key>
 			<data>
-			+CMYixvTugP5lkCNM5hjHLq98PVwjeWfH8wKIkTqWEA=
+			sLNJhfc7EIybTASXDYODrefe6cnEYZf9KK+pfz9yUTE=
 			</data>
 		</dict>
 	</dict>
